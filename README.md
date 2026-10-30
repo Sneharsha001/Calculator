@@ -1,2 +1,2 @@
 # Build-a-Calculator
-building a calculator having in digitalizeation of everything
+Calculator Which is used in our daily life
