@@ -5,6 +5,5 @@
 -----------------------------------------------------
 qwertyuoijhgfdsazxcvbnm,mnbvccvnm
 
-okmijnhbytfdsaqwertyui
 
 
